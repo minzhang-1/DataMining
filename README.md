@@ -20,7 +20,7 @@ sudo pip install pyspark
 
 ### Data
 
-
+The [data](https://drive.google.com/drive/folders/1quCqmgkxLcBdbRB6ZTKgILQ2dBXLTqUs?usp=sharing) is collected/created by instructor of the course INF553.
 
 ### Content
 
