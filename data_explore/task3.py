@@ -1,7 +1,5 @@
 # INF 553 2020S HW1
 # Task 3
-# Name: Min Zhang
-# ID: 6882-1644-04
 # command: spark-submit task3.py $ASNLIB/publicdata/review.json task3_default_ans default 20 50
 # command: spark-submit task3.py $ASNLIB/publicdata/review.json task3_customized_ans customized 20 50
 from __future__ import print_function

@@ -1,7 +1,5 @@
 # INF 553 2020S HW3
 # Task 2
-# Name: Min Zhang
-# ID: 6882-1644-04
 # command: spark-submit task2predict.py $ASNLIB/publicdata/test_review.json task2.model task2.predict
 
 from __future__ import print_function

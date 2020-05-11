@@ -1,7 +1,5 @@
 # INF 553 2020S HW5
 # Task 1
-# Name: Min Zhang
-# ID: 6882-1644-04
 # command: python3 bfr.py $ASNLIB/publicdata/test1/ 10 cluster_res1.json intermediate1.csv
 # command: python3 bfr.py $ASNLIB/publicdata/test2/ 10 cluster_res2.json intermediate2.csv
 # command: python3 bfr.py $ASNLIB/publicdata/test3/ 5 cluster_res3.json intermediate3.csv

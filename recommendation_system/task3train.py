@@ -1,7 +1,5 @@
 # INF 553 2020S HW3
 # Task 3
-# Name: Min Zhang
-# ID: 6882-1644-04
 # command: spark-submit task3train.py $ASNLIB/publicdata/train_review.json task3item.model item_based
 # command: spark-submit task3train.py $ASNLIB/publicdata/train_review.json task3user.model user_based
 from __future__ import print_function

@@ -1,7 +1,5 @@
 # INF 553 2020S HW6
 # Task 3
-# Name: Min Zhang
-# ID: 6882-1644-04
 # command: spark-submit task3.py 9999 task3_ans.csv
 from __future__ import print_function
 import sys
@@ -106,8 +104,8 @@ class MyStreamListener(tweepy.StreamListener):
 
 def main():
 
-    auth = tweepy.OAuthHandler('MhVToZFRnlDUl5CSuxQZiyqNf', 'KzhegqosIKGkhstu4UW8ia7ddsrwT9y44pAjXbHEtSi20mNyZL')
-    auth.set_access_token('1253894367657394176-QTv6WwH3kBzS44Idl9cM34SjfPIFIE', 'rPN5FQw8x2rQIMiRcmTjImlPSg3NLhYio5KHhEVXg25e2')
+    auth = tweepy.OAuthHandler('-', '-')
+    auth.set_access_token('-', '-')
     api = tweepy.API(auth)
 
     msl = MyStreamListener()

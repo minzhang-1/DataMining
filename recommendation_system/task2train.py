@@ -1,7 +1,5 @@
 # INF 553 2020S HW3
 # Task 2
-# Name: Min Zhang
-# ID: 6882-1644-04
 # command: spark-submit task2train.py $ASNLIB/publicdata/train_review.json task2.model $ASNLIB/publicdata/stopwords
 from __future__ import print_function
 import os

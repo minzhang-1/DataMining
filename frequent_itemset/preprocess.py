@@ -1,7 +1,5 @@
 # INF 553 2020S HW2
 # Preprocess of Task 2
-# Name: Min Zhang
-# ID: 6882-1644-04
 # command: spark-submit preprocess.py $ASNLIB/publicdata/review.json $ASNLIB/publicdata/business.json user-business.csv
 from __future__ import print_function
 import os

@@ -1,7 +1,5 @@
 # INF 553 2020S HW1
 # Task 2
-# Name: Min Zhang
-# ID: 6882-1644-04
 # command: spark-submit task2.py $ASNLIB/publicdata/review.json $ASNLIB/publicdata/business.json task2_no_spark_ans no_spark 20
 # command: spark-submit task2.py $ASNLIB/publicdata/review.json $ASNLIB/publicdata/business.json task2_spark_ans spark 20
 from __future__ import print_function

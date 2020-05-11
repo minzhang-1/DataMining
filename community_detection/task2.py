@@ -1,7 +1,5 @@
 # INF 553 2020S HW4
 # Task 2
-# Name: Min Zhang
-# ID: 6882-1644-04
 # command: spark-submit task2.py 7 $ASNLIB/publicdata/ub_sample_data.csv task2_1_ans task2_2_ans
 from __future__ import print_function
 import sys

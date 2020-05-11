@@ -1,7 +1,5 @@
 # INF 553 2020S HW2
 # Task 1
-# Name: Min Zhang
-# ID: 6882-1644-04
 # command: spark-submit task1.py 1 4 $ASNLIB/publicdata/small1.csv task1_ans
 # command: spark-submit task1.py 2 9 $ASNLIB/publicdata/small1.csv task1_ans
 # command: spark-submit task1.py 1 4 $ASNLIB/publicdata/small2.csv task1_ans

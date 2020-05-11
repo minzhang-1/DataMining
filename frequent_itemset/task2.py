@@ -1,7 +1,5 @@
 # INF 553 2020S HW2
 # Task 2
-# Name: Min Zhang
-# ID: 6882-1644-04
 # command: spark-submit task2.py 70 50 user-business.csv task2_ans
 from __future__ import print_function
 import os

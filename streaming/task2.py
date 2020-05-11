@@ -1,8 +1,5 @@
 # INF 553 2020S HW6
 # Task 2
-# Name: Min Zhang
-# ID: 6882-1644-04
-# command: java -cp /home/minzhang/dm/hw6/hw6_data/generate_stream.jar StreamSimulation /home/minzhang/dm/hw6/hw6_data/business.json 9999 100
 # command: java -cp $ASNLIB/publicdata/generate_stream.jar StreamSimulation $ASNLIB/publicdata/business.json 9999 100
 # command: spark-submit task2.py 9999 task2_ans.csv
 from __future__ import print_function
